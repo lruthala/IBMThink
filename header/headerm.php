@@ -2,7 +2,7 @@
 <html>
     <head>
         
- 	<link rel="stylesheet" href="/header/css/bootstrap.1.css" type="text/css" />
+ 	<link rel="stylesheet" href="../header/css/bootstrap.1.css" type="text/css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
    
    <style>
@@ -308,9 +308,9 @@ ul li a{
 			</div>
 		</header><!-- #header end -->
     
-    	<script type="text/javascript" src="/header/js/jquery.js"></script>
-<script type="text/javascript" src="header/js/plugins.js"></script>
-		<script type="text/javascript" src="/header/js/rajfunction.js"></script>
+    	<script type="text/javascript" src="../header/js/jquery.js"></script>
+<script type="text/javascript" src="../header/js/plugins.js"></script>
+		<script type="text/javascript" src="../header/js/rajfunction.js"></script>
 	
     </body>
 </html>

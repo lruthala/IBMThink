@@ -32,7 +32,7 @@ The conference where thinkers like you gather to make the world of business work
       <link href="https://rawgit.com/kenwheeler/slick/master/slick/slick.css" rel="stylesheet"/>
    </head>
    <!--/head-->
-   <?php include '../../headerm.3.php';?>
+   <?php include '../header/headerm.php';?>
    <body>
 <style>
    .card {
@@ -1283,5 +1283,5 @@ $(document).ready(function(){
         </div>
 
    </body>
-   <?php include '../../footer.php';?>
+   <?php include '../footer/footer.php';?>
 </html>
